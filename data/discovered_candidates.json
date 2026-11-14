@@ -1,834 +1,1059 @@
 {
   "queries": [
-    "indie film pre production workflow breakdown",
-    "how I outline and plan my novel character bible",
-    "brand identity design visual process step by step",
-    "game design document structure and workflow",
-    "interior design moodboard and concept presentation",
-    "how to organize visual references digital art",
-    "content creator video planning and organization system",
-    "fashion collection design process concept moodboard"
+    "how I organize my video production workflow",
+    "graphic design client project management process",
+    "how to create a professional moodboard for film projects",
+    "my creative process for storyboarding and shot listing",
+    "how I manage client feedback and revisions for design work",
+    "organizing creative assets and references for video editing",
+    "day in the life of a freelance art director workflow",
+    "how to plan a commercial video shoot from start to finish"
   ],
   "candidates": [
     {
-      "channel_id": "UCUFoQUaVRt3MVFxqwPUMLCQ",
-      "channel_title": "StudioBinder",
+      "channel_id": "UCotHOQwrGyPu6XH_fjRm8VA",
+      "channel_title": "Gaku Lange",
       "matches": [
         {
-          "query": "indie film pre production workflow breakdown",
-          "video_id": "U6I1tMgjW-I",
-          "video_title": "The Pre-Production Process in Film Explained [Stages of Filmmaking, Ep 2]"
+          "query": "how I organize my video production workflow",
+          "video_id": "OSQTq1E6NHU",
+          "video_title": "How To PLAN &amp; ORGANIZE Your Videos + FREE Filmmaking Template",
+          "rank": 1,
+          "relevance_score": 1.4426950408889634
         },
         {
-          "query": "indie film pre production workflow breakdown",
-          "video_id": "puF9CkvmJt0",
-          "video_title": "Film Production Explained — Each Step of the Production Process [Stages of Filmmaking, Ep 3]"
+          "query": "my creative process for storyboarding and shot listing",
+          "video_id": "OSQTq1E6NHU",
+          "video_title": "How To PLAN &amp; ORGANIZE Your Videos + FREE Filmmaking Template",
+          "rank": 2,
+          "relevance_score": 0.9102392266268373
         }
-      ]
-    },
-    {
-      "channel_id": "UCGXfqzVEZr0XaZLWG3_HniA",
-      "channel_title": "The Media Insider",
-      "matches": [
-        {
-          "query": "indie film pre production workflow breakdown",
-          "video_id": "GOQ7rZ4PNOo",
-          "video_title": "Film pre-production explained - from script to budget! How to plan film for new filmmakers"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCSEtNYPdEzgzpNIzlJcH28w",
-      "channel_title": "Erik Knudsen - One Day Films",
-      "matches": [
-        {
-          "query": "indie film pre production workflow breakdown",
-          "video_id": "SJTYC0RNHLs",
-          "video_title": "Cleft Lip Pre production: A Director&#39;s Perspective"
-        }
-      ]
-    },
-    {
-      "channel_id": "UClkylD-kZrwcTSltGm_Cm5A",
-      "channel_title": "Camp Films",
-      "matches": [
-        {
-          "query": "indie film pre production workflow breakdown",
-          "video_id": "NYLCl8MjBJ8",
-          "video_title": "Film Pre-Production Explained: How to Plan Your First Short Film"
-        },
-        {
-          "query": "indie film pre production workflow breakdown",
-          "video_id": "s7J96K3wXD4",
-          "video_title": "FREE Film Pre-Production Checklist - Planning A Film"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCs8o1mdWAfefJkdBg632_tg",
-      "channel_title": "Film Courage",
-      "matches": [
-        {
-          "query": "indie film pre production workflow breakdown",
-          "video_id": "iq3PwikKlw4",
-          "video_title": "A Pre-Production Checklist For Filmmakers by Devin Reeve"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCHIRBiAd-PtmNxAcLnGfwog",
-      "channel_title": "B&H Photo Video Pro Audio",
-      "matches": [
-        {
-          "query": "indie film pre production workflow breakdown",
-          "video_id": "6fXYN2mf-_0",
-          "video_title": "Pre-Production: What To Do Before You Shoot | Low-Budget Filmmaking"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCLM6kspmaYpVrDQQlCOeGaA",
-      "channel_title": "Justin Phillip",
-      "matches": [
-        {
-          "query": "indie film pre production workflow breakdown",
-          "video_id": "hYV-9FUB8vM",
-          "video_title": "Pre Production Tips for Efficient Cinematography by a REAL Indie Filmmaker"
-        }
-      ]
-    },
-    {
-      "channel_id": "UC2fbyBpBTUeiA4iLu2HrW7g",
-      "channel_title": "Joeflix Studios",
-      "matches": [
-        {
-          "query": "indie film pre production workflow breakdown",
-          "video_id": "mgUEImyl828",
-          "video_title": "🎬✨ Accelerate Your Pre-Production Process with AI! ✨🎬"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCY5S1UKi_vbqDLHSReCSWqw",
-      "channel_title": "Mandi Lynn - Stone Ridge Books",
-      "matches": [
-        {
-          "query": "how I outline and plan my novel character bible",
-          "video_id": "5mBqs1eSCbs",
-          "video_title": "My Novel Outline Planner Flip-Through - The Ultimate Series Bible for Writers"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCDnWB3tgu-Nu4aqoI50Cd1Q",
-      "channel_title": "Natalia Leigh",
-      "matches": [
-        {
-          "query": "how I outline and plan my novel character bible",
-          "video_id": "Iz8oMMK-IQU",
-          "video_title": "HOW TO CREATE AN AMAZING SERIES BIBLE | outlining, character profiles, worldbuilding, and more!"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCYyy_hiZRaSLGLOn62Nc4AA",
-      "channel_title": "Kristen Martin",
-      "matches": [
-        {
-          "query": "how I outline and plan my novel character bible",
-          "video_id": "12PpJynXHpI",
-          "video_title": "How To Create a SERIES BIBLE For Your Fantasy Novel"
-        }
-      ]
-    },
-    {
-      "channel_id": "UC-J7x7Lf2YQ8i527YNO2iLw",
-      "channel_title": "Katesbookdate",
-      "matches": [
-        {
-          "query": "how I outline and plan my novel character bible",
-          "video_id": "DBfjQvwOW3o",
-          "video_title": "how to make a story bible for a fantasy book series // outlines, plans, and organization for authors"
-        }
-      ]
-    },
-    {
-      "channel_id": "UC3g-w83Cb5pEAu5UmRrge-A",
-      "channel_title": "Brandon Sanderson",
-      "matches": [
-        {
-          "query": "how I outline and plan my novel character bible",
-          "video_id": "mMeNnX1FGgg",
-          "video_title": "Five Tips for Writing Your First Novel—Brandon Sanderson"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCA01TAqoG8qS7i8eZnx5V9g",
-      "channel_title": "LDJwrites",
-      "matches": [
-        {
-          "query": "how I outline and plan my novel character bible",
-          "video_id": "8X2mPaVA1xw",
-          "video_title": "How To Use OBSIDIAN For Writing &amp; Worldbuilding🔮(world bible &amp; plugin showcase)"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCpo0MkTAyEl73PmIVs8CQvQ",
-      "channel_title": "Reedsy",
-      "matches": [
-        {
-          "query": "how I outline and plan my novel character bible",
-          "video_id": "y4C8eAbuquQ",
-          "video_title": "How to Create a Worldbuilding Bible"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCuK9ofevgGxPVl57p_fSpuA",
-      "channel_title": "Jerry B. Jenkins",
-      "matches": [
-        {
-          "query": "how I outline and plan my novel character bible",
-          "video_id": "yHKKtxliYaY",
-          "video_title": "How to Write a Book: 13 Steps From a Bestselling Author"
-        }
-      ]
-    },
-    {
-      "channel_id": "UC5oyTRQSvomqgaJEGS9Ck9Q",
-      "channel_title": "Effie Joe Stock",
-      "matches": [
-        {
-          "query": "how I outline and plan my novel character bible",
-          "video_id": "oTGZ4BKkVgk",
-          "video_title": "5 things you need to start worldbuilding #worldbuilding #writing #fantasy #writinghelp"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCxk8NgJbQ6gs7Y9xczn2Evw",
-      "channel_title": "Screenwriting In LA",
-      "matches": [
-        {
-          "query": "how I outline and plan my novel character bible",
-          "video_id": "mNYpELw7y1U",
-          "video_title": "George R.R. Martin Tips On Naming Characters #gameofthrones #writing #tips"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCtVuYrnKz3lO7D5po6gshNg",
-      "channel_title": "Jack Watson",
-      "matches": [
-        {
-          "query": "brand identity design visual process step by step",
-          "video_id": "y_2P5o_msuo",
-          "video_title": "How To ACTUALLY Design a Brand Identity (Full Guide 2026)"
-        },
-        {
-          "query": "brand identity design visual process step by step",
-          "video_id": "aj6x7KLSywc",
-          "video_title": "How to Design a Brand Identity from Start to Finish in 2026 (Using AI)"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCHUKFIqUEmr6BFWmEOqa19w",
-      "channel_title": "GraphiqVibe",
-      "matches": [
-        {
-          "query": "brand identity design visual process step by step",
-          "video_id": "vaqBJ2dX-Cs",
-          "video_title": "How to Design Brand Identity | Full Step by Step Process"
-        },
-        {
-          "query": "brand identity design visual process step by step",
-          "video_id": "mhUMNu7XeTE",
-          "video_title": "Complete Brand Identity Design from Zero to Mockups | Full Tutorial"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCIp9sEZiv36cDG7cEnrVU7Q",
-      "channel_title": "Will Paterson",
-      "matches": [
-        {
-          "query": "brand identity design visual process step by step",
-          "video_id": "mFx_dMAO0n8",
-          "video_title": "Designing a Full Brand Identity for a Real Client - Luxury Automotive Brand (Full Process)"
-        },
-        {
-          "query": "brand identity design visual process step by step",
-          "video_id": "V3pQ2BXblUE",
-          "video_title": "How I Design a Brand Identity in Affinity (Full Workflow)"
-        }
-      ]
-    },
-    {
-      "channel_id": "UC-8eo6rfgkIQw1njypbkdEw",
-      "channel_title": "HanSelah",
-      "matches": [
-        {
-          "query": "brand identity design visual process step by step",
-          "video_id": "9DH2PjwbCkU",
-          "video_title": "FULL BRAND IDENTITY DESIGN From Start to Finish (Full Process) How to wow brand design clients Easy"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCHz02uxnhF8JZXQ4uuAtlyw",
-      "channel_title": "Cj Cawley",
-      "matches": [
-        {
-          "query": "brand identity design visual process step by step",
-          "video_id": "B3CDGypsgts",
-          "video_title": "Designing a Brand Identity for a Real Client in 5 Days: Weekly Vlog"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCWNfZKYNnk9-JEPeoLMi-2w",
-      "channel_title": "Anik Jain",
-      "matches": [
-        {
-          "query": "brand identity design visual process step by step",
-          "video_id": "yB2j6JJmnJk",
-          "video_title": "How To Design a Brand Identity? | Full Graphic Design Process of Real Client"
-        }
-      ]
-    },
-    {
-      "channel_id": "UChRfwCIKYJI0jboUx87dJyQ",
-      "channel_title": "Abi Connick",
-      "matches": [
-        {
-          "query": "brand identity design visual process step by step",
-          "video_id": "N6fRAAX9ums",
-          "video_title": "How to Design a Brand Identity (full process)"
-        }
-      ]
-    },
-    {
-      "channel_id": "UC8wTcfcC3JY3pU7_Cn7za6Q",
-      "channel_title": "Game Dev Beginner",
-      "matches": [
-        {
-          "query": "game design document structure and workflow",
-          "video_id": "bro4rwYVo0I",
-          "video_title": "How to write a Game Design Document"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCu6L0MRSNbc_T-sLdTRbB8g",
-      "channel_title": "Serket Studios",
-      "matches": [
-        {
-          "query": "game design document structure and workflow",
-          "video_id": "hzPZznSmbao",
-          "video_title": "Game Design Documents - A Comprehensive Guide"
-        }
-      ]
-    },
-    {
-      "channel_id": "UC9QThRmFFvh30IUj6d-bBnQ",
-      "channel_title": "Alan | JungoGymStudios",
-      "matches": [
-        {
-          "query": "game design document structure and workflow",
-          "video_id": "e43A3ooI6cI",
-          "video_title": "Writing Game Design Docs You&#39;ll ACTUALLY Use (Idea To Demo)"
-        }
-      ]
-    },
-    {
-      "channel_id": "UC2bskXwTc519XszK-b8TCAQ",
-      "channel_title": "CreaDev Labs",
-      "matches": [
-        {
-          "query": "game design document structure and workflow",
-          "video_id": "lxFbog6jpVU",
-          "video_title": "Cracking the Code: Mastering Game Design Docs"
-        }
-      ]
-    },
-    {
-      "channel_id": "UC7hjuzJ63yEC_PQW631Dc8w",
-      "channel_title": "Game Made Here",
-      "matches": [
-        {
-          "query": "game design document structure and workflow",
-          "video_id": "jtuW8MK6waE",
-          "video_title": "Game Design Document the easy way #gamedev #gamedevelopment #unrealengine5 #gdd #design #gameplay"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCBmvjLGbZEFkZZ1CZTwM6pg",
-      "channel_title": "orithekid",
-      "matches": [
-        {
-          "query": "game design document structure and workflow",
-          "video_id": "EQfYUTEdDq8",
-          "video_title": "How To Plan Your Games &amp; Keep Yourself Focused"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCHUgO0pyXWkGnQUYp5JgoUg",
-      "channel_title": "BiteMe Games",
-      "matches": [
-        {
-          "query": "game design document structure and workflow",
-          "video_id": "xUo0rL2c_LQ",
-          "video_title": "The easiest game design document (+ free Notion template)"
-        }
-      ]
-    },
-    {
-      "channel_id": "UC9v7V5PKy-FeB9iVY2T5mMA",
-      "channel_title": "Indie Game Clinic",
-      "matches": [
-        {
-          "query": "game design document structure and workflow",
-          "video_id": "fk-rQlrNYZ8",
-          "video_title": "What Do &quot;Professional&quot; Game Design Documents Look Like? 📜"
-        },
-        {
-          "query": "game design document structure and workflow",
-          "video_id": "uBxYGFRi-S4",
-          "video_title": "Game Design Documents - a Minimalist Approach 🧘🏽"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCFJWmYnyv_0SGaAyOdWFAhg",
-      "channel_title": "GameDesigners",
-      "matches": [
-        {
-          "query": "game design document structure and workflow",
-          "video_id": "jemJSHf1AhI",
-          "video_title": "How to Structure a Game Design Document That Actually Gets Your Game Built"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCb2BqoZPqPCMcxnVhKBgo3A",
-      "channel_title": "Camila Interiors",
-      "matches": [
-        {
-          "query": "interior design moodboard and concept presentation",
-          "video_id": "HdkuvS8khhY",
-          "video_title": "Moodboard vs. Concept Board: What’s the Difference?"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCIRhDGv9rblv6dpgsS1uehQ",
-      "channel_title": "D.Signers",
-      "matches": [
-        {
-          "query": "interior design moodboard and concept presentation",
-          "video_id": "EJRwAxdQyLM",
-          "video_title": "INTERIOR DESIGN How To Create a Mood Board Step by Step Easy Tutorial Using Canva"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCTOmRzcByIVmNzf8prekmWg",
-      "channel_title": "Ula Burgiel",
-      "matches": [
-        {
-          "query": "interior design moodboard and concept presentation",
-          "video_id": "BOttMuEureY",
-          "video_title": "Interior Design Mood Boards - Canva App Step by Step Tutorial"
-        }
-      ]
-    },
-    {
-      "channel_id": "UC4ktqo77zOGgk7UZpwxwMIg",
-      "channel_title": "Dantier and Balogh Design Studio",
-      "matches": [
-        {
-          "query": "interior design moodboard and concept presentation",
-          "video_id": "GUB70IuKpcw",
-          "video_title": "How to create an interior design moodboard LIKE A PRO! MY MOODBOARD PROCESS / InDesign tutorial"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCIo7j_9a483J_uKjPVR9I_g",
-      "channel_title": "The MH Interiors",
-      "matches": [
-        {
-          "query": "interior design moodboard and concept presentation",
-          "video_id": "3eXO1hP1A5Q",
-          "video_title": "A Real Interior Design Client Presentation | How to Present Design, Moodboard &amp; Layout Step-by-Step!"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCu43etOtxZD4gJw4k94N5ZQ",
-      "channel_title": "Artikki | Kritika",
-      "matches": [
-        {
-          "query": "interior design moodboard and concept presentation",
-          "video_id": "VLCFItOSJAo",
-          "video_title": "How I create interior mood boards in 5 mins on my iPad using Morpholio Board Application #moodboard"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCtwzsvzRCfPddq2gPlgKW1w",
-      "channel_title": "Lone Fox",
-      "matches": [
-        {
-          "query": "interior design moodboard and concept presentation",
-          "video_id": "B_PRaIzavWU",
-          "video_title": "HOW TO DESIGN A ROOM FROM START TO FINISH: Mood Boarding, Furniture Selection + Concept!"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCGgb8qZQNS_e-pw5UkMa6Yw",
-      "channel_title": "Sabrina Latoya",
-      "matches": [
-        {
-          "query": "interior design moodboard and concept presentation",
-          "video_id": "4E9EirpYI28",
-          "video_title": "INTERIOR DESIGN | HOW TO CREATE A MOOD BOARD - Step By Step Guide"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCLDO-UaESorvu09Vh8LB-cA",
-      "channel_title": "YourInteriorSpace",
-      "matches": [
-        {
-          "query": "interior design moodboard and concept presentation",
-          "video_id": "B7toWpf8prc",
-          "video_title": "What is a Concept Board vs Mood Board vs Material Board? ✅"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCtBoV8MCXuanMLh5DM8vqUQ",
-      "channel_title": "Anna Kovalchenko",
-      "matches": [
-        {
-          "query": "interior design moodboard and concept presentation",
-          "video_id": "LmE_X7c8-oc",
-          "video_title": "Interior Design : How to Present Your Ideas to the Client"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCyZQW8StKsGlpNNkQvwHiSQ",
-      "channel_title": "JaystarTDS",
-      "matches": [
-        {
-          "query": "how to organize visual references digital art",
-          "video_id": "NEydNDqbWTs",
-          "video_title": "How to organize your art references. Use this application."
-        }
-      ]
-    },
-    {
-      "channel_id": "UCyvUNIXalUhfW4Ny_h9umeg",
-      "channel_title": "Lucas Peinador",
-      "matches": [
-        {
-          "query": "how to organize visual references digital art",
-          "video_id": "8qWhk1E6mNY",
-          "video_title": "How to use reference? -THE RIGHT WAY"
-        },
-        {
-          "query": "how to organize visual references digital art",
-          "video_id": "M6XGT2Wh8Us",
-          "video_title": "If you don&#39;t know how to use layer modes - you need to watch this!"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCIWrxx5TDPio3HUQ9dcjZ4g",
-      "channel_title": "Kuzillon",
-      "matches": [
-        {
-          "query": "how to organize visual references digital art",
-          "video_id": "Vdg0jC-OTt4",
-          "video_title": "4 places to find REFERENCES and INSPIRATION for your art!"
-        },
-        {
-          "query": "how to organize visual references digital art",
-          "video_id": "sTG_kPXxoek",
-          "video_title": "5 tips for starting CONCEPT ART/VISUAL DEVELOPMENT"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCDfvymriUmvseSSvmskHeAQ",
-      "channel_title": "Kraymer Art",
-      "matches": [
-        {
-          "query": "how to organize visual references digital art",
-          "video_id": "atn7v_NPjwc",
-          "video_title": "How I *Actually* Find Art Inspiration &amp; References"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCKwD_MAyMsbtlSRaVtNVn7A",
-      "channel_title": "Depardo Graphic Arts",
-      "matches": [
-        {
-          "query": "how to organize visual references digital art",
-          "video_id": "eOWi_8q2wB4",
-          "video_title": "How to Organize References &amp; Level Up Your Art | Watercolor Nature PNG Pack 🎨✨🌳🌺"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCP0zQuIlB1VbwVhalam-54Q",
-      "channel_title": "Jesus Ramirez",
-      "matches": [
-        {
-          "query": "how to organize visual references digital art",
-          "video_id": "SuF2V21X1s8",
-          "video_title": "How I Display My Drawing References on iPad | Using VizRef + USB-C Hub for Pro Drawing Workflow"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCAaXLLoXnRF8EPUy5b5b6Vw",
-      "channel_title": "ronillust",
-      "matches": [
-        {
-          "query": "how to organize visual references digital art",
-          "video_id": "SWSq0uUa9tg",
-          "video_title": "Always check your layers when drawing..."
-        }
-      ]
-    },
-    {
-      "channel_id": "UC4DdC7ZlRzCPGtXzHKGV7AA",
-      "channel_title": "vvivaa",
-      "matches": [
-        {
-          "query": "how to organize visual references digital art",
-          "video_id": "FpuMp0hwyvA",
-          "video_title": "My favorite art reference tool: Handy!"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCKh3kvpo6_Xt2MDEUXjsqxw",
-      "channel_title": "Hallease",
-      "matches": [
-        {
-          "query": "content creator video planning and organization system",
-          "video_id": "eb6vUVgQbgc",
-          "video_title": "From Chaotic to Organized: Simple Folder Structure For New Content Creators"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCqYuzgSCEl0IqWKxC8T4Gmg",
-      "channel_title": "Niklas Christl",
-      "matches": [
-        {
-          "query": "content creator video planning and organization system",
-          "video_id": "eCD1C1WJhsA",
-          "video_title": "How To PLAN &amp; ORGANISE Your VIDEOS! | Notion Filmmaking Workflow"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCLMtjmKyB2ORHx2A06crsmQ",
-      "channel_title": "Jade Beason",
-      "matches": [
-        {
-          "query": "content creator video planning and organization system",
-          "video_id": "4C3MH0A2Sn8",
-          "video_title": "Build a content creation workflow that ACTUALLY works | Content creation 2025 |Content creation tips"
-        },
-        {
-          "query": "content creator video planning and organization system",
-          "video_id": "rl9ZtPKEdRg",
-          "video_title": "1 month of content in 1 hour | Updated guide to content batching &amp; planning + free content calendar!"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCCeXwLzVKZU7VW8qXis_UOQ",
-      "channel_title": "Katie Steckly",
-      "matches": [
-        {
-          "query": "content creator video planning and organization system",
-          "video_id": "QuUD4PZlPgg",
-          "video_title": "File organization hacks for creators | b-roll library, camera roll albums + more"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCSLeoz5odIGS2GdlbHbCAUg",
-      "channel_title": "Matthew Encina",
-      "matches": [
-        {
-          "query": "content creator video planning and organization system",
-          "video_id": "5Kb3mlUwwL0",
-          "video_title": "How to Make YouTube Videos – Plan, Shoot, Edit, Post, Grow"
-        }
-      ]
-    },
-    {
-      "channel_id": "UCS4VWcCVVI8Bcn8Dteylxzw",
-      "channel_title": "Modern Millie",
-      "matches": [
-        {
-          "query": "content creator video planning and organization system",
-          "video_id": "NuHt84jv4ZI",
-          "video_title": "Content Calendar Notion Tutorial + free template 📅💡 how to use notion for content creators"
-        }
-      ]
+      ],
+      "discovery_relevance": 2.352934267515801
     },
     {
       "channel_id": "UCHAED0mR34dEBy9-DzDFOUQ",
       "channel_title": "Alexander Behne",
       "matches": [
         {
-          "query": "content creator video planning and organization system",
+          "query": "how I organize my video production workflow",
           "video_id": "Dj51kSjMe74",
-          "video_title": "How to Organize Your Video Assets | Folder Structure for Video Editors"
+          "video_title": "How to Organize Your Video Assets | Folder Structure for Video Editors",
+          "rank": 2,
+          "relevance_score": 0.9102392266268373
+        },
+        {
+          "query": "organizing creative assets and references for video editing",
+          "video_id": "Dj51kSjMe74",
+          "video_title": "How to Organize Your Video Assets | Folder Structure for Video Editors",
+          "rank": 1,
+          "relevance_score": 1.4426950408889634
         }
-      ]
+      ],
+      "discovery_relevance": 2.352934267515801
     },
     {
-      "channel_id": "UCrSvDunJEc1CME4-KvhW_3Q",
-      "channel_title": "Howfinity",
+      "channel_id": "UCCeXwLzVKZU7VW8qXis_UOQ",
+      "channel_title": "Katie Steckly",
       "matches": [
         {
-          "query": "content creator video planning and organization system",
-          "video_id": "-HrfqfDyqCQ",
-          "video_title": "How To Become a Content Creator - Complete Beginner&#39;s Guide"
+          "query": "how I organize my video production workflow",
+          "video_id": "855PcbiAlhI",
+          "video_title": "How to organize your video files for editing | Vlogging 101",
+          "rank": 3,
+          "relevance_score": 0.7213475204444817
         }
-      ]
+      ],
+      "discovery_relevance": 0.7213475204444817
     },
     {
       "channel_id": "UCGxjDWAN1KwrkXYVi8CXtjQ",
       "channel_title": "Think Media",
       "matches": [
         {
-          "query": "content creator video planning and organization system",
+          "query": "how I organize my video production workflow",
           "video_id": "JmpS8pqmAFs",
-          "video_title": "How to Make YouTube Videos 10x Faster w/ Ali Abdaal"
+          "video_title": "How to Make YouTube Videos 10x Faster w/ Ali Abdaal",
+          "rank": 4,
+          "relevance_score": 0.6213349345596119
         }
-      ]
+      ],
+      "discovery_relevance": 0.6213349345596119
     },
     {
-      "channel_id": "UCnEaPqRD7re101kdS0kWOqw",
-      "channel_title": "Bella Fordin",
+      "channel_id": "UCU4uucQR3l0vMDVDDYXIvow",
+      "channel_title": "Marcel Little",
       "matches": [
         {
-          "query": "fashion collection design process concept moodboard",
-          "video_id": "kGSw3z0CiSU",
-          "video_title": "How to Make a Collection - an in depth guide to making the fashion collection of your dreams"
+          "query": "how I organize my video production workflow",
+          "video_id": "5iJCrhfBz-c",
+          "video_title": "My Complete MEDIA WORKFLOW as a Filmmaker",
+          "rank": 5,
+          "relevance_score": 0.5581106265512472
         }
-      ]
+      ],
+      "discovery_relevance": 0.5581106265512472
     },
     {
-      "channel_id": "UCMQ_mPIBPi4IMpYEmuyOMqQ",
-      "channel_title": "Zoe Hong",
+      "channel_id": "UCqYuzgSCEl0IqWKxC8T4Gmg",
+      "channel_title": "Niklas Christl",
       "matches": [
         {
-          "query": "fashion collection design process concept moodboard",
-          "video_id": "qUEIBiJby9A",
-          "video_title": "Fashion Design Tutorial 2: Concept Dev &amp; Mood Boards"
+          "query": "how I organize my video production workflow",
+          "video_id": "eCD1C1WJhsA",
+          "video_title": "How To PLAN &amp; ORGANISE Your VIDEOS! | Notion Filmmaking Workflow",
+          "rank": 6,
+          "relevance_score": 0.5138983423697507
+        }
+      ],
+      "discovery_relevance": 0.5138983423697507
+    },
+    {
+      "channel_id": "UCciBmln_lRBLZaNZYuzMVWg",
+      "channel_title": "Scott Edwards",
+      "matches": [
+        {
+          "query": "how I organize my video production workflow",
+          "video_id": "gOchfGvTogk",
+          "video_title": "My simple video editing workflow | Make video editing easier!",
+          "rank": 7,
+          "relevance_score": 0.48089834696298783
+        }
+      ],
+      "discovery_relevance": 0.48089834696298783
+    },
+    {
+      "channel_id": "UCO4Nw0vUpxgb0zsziJ1SaMg",
+      "channel_title": "Justin Brown - Primal Video",
+      "matches": [
+        {
+          "query": "how I organize my video production workflow",
+          "video_id": "aJ0_SP5nBMg",
+          "video_title": "How To Organize Video Project Files: Simple Folder Structure To Save Time and Avoid Headaches",
+          "rank": 8,
+          "relevance_score": 0.45511961331341866
+        }
+      ],
+      "discovery_relevance": 0.45511961331341866
+    },
+    {
+      "channel_id": "UCZBsryarq8JzRGyWB42xEtQ",
+      "channel_title": "The GBZ Documentary",
+      "matches": [
+        {
+          "query": "how I organize my video production workflow",
+          "video_id": "p3aT9EW_BXA",
+          "video_title": "Street Level Explanation - | Part 1: Organizing Footage &amp; Syncing Music in DaVinci Resolve 21",
+          "rank": 9,
+          "relevance_score": 0.43429448190325176
+        }
+      ],
+      "discovery_relevance": 0.43429448190325176
+    },
+    {
+      "channel_id": "UCSLeoz5odIGS2GdlbHbCAUg",
+      "channel_title": "Matthew Encina",
+      "matches": [
+        {
+          "query": "how I organize my video production workflow",
+          "video_id": "5Kb3mlUwwL0",
+          "video_title": "How to Make YouTube Videos – Plan, Shoot, Edit, Post, Grow",
+          "rank": 10,
+          "relevance_score": 0.4170323914242463
         },
         {
-          "query": "fashion collection design process concept moodboard",
-          "video_id": "a0NA5clwogU",
-          "video_title": "Watch Me Design A Fashion Collection 1: Inspiration"
+          "query": "my creative process for storyboarding and shot listing",
+          "video_id": "t2P9Z_UPTdU",
+          "video_title": "How to Film Yourself – Planning: Idea, Script, and Shot List",
+          "rank": 8,
+          "relevance_score": 0.45511961331341866
+        },
+        {
+          "query": "how to plan a commercial video shoot from start to finish",
+          "video_id": "5Kb3mlUwwL0",
+          "video_title": "How to Make YouTube Videos – Plan, Shoot, Edit, Post, Grow",
+          "rank": 3,
+          "relevance_score": 0.7213475204444817
+        },
+        {
+          "query": "how to plan a commercial video shoot from start to finish",
+          "video_id": "t2P9Z_UPTdU",
+          "video_title": "How to Film Yourself – Planning: Idea, Script, and Shot List",
+          "rank": 7,
+          "relevance_score": 0.48089834696298783
         }
-      ]
+      ],
+      "discovery_relevance": 1.5934995251821467
     },
     {
-      "channel_id": "UCgRTkaOmQJDhkRSdaDP91hA",
-      "channel_title": "Torunn Kjolberg",
+      "channel_id": "UCAxtC6D1jmgpWg53fuczKtw",
+      "channel_title": "Butler Branding Agency",
       "matches": [
         {
-          "query": "fashion collection design process concept moodboard",
-          "video_id": "YCODadpMWyc",
-          "video_title": "Developing a concept  for Major Fashion Design Project"
+          "query": "graphic design client project management process",
+          "video_id": "N8JYIpF6Wmg",
+          "video_title": "How To Manage Design Projects",
+          "rank": 1,
+          "relevance_score": 1.4426950408889634
         }
-      ]
+      ],
+      "discovery_relevance": 1.4426950408889634
     },
     {
-      "channel_id": "UCWmc8-vOy14DFh2ILNjm0jA",
-      "channel_title": "Gaurav Mandal",
+      "channel_id": "UCDQ3BtYh76shNPjnqlQjxpg",
+      "channel_title": "Self-Made Web Designer",
       "matches": [
         {
-          "query": "fashion collection design process concept moodboard",
-          "video_id": "5Y6_-6kq9CY",
-          "video_title": "Fashion design process Inspiration | how to take inspiration | Inspiration | Fashion | Gaurav Mandal"
+          "query": "graphic design client project management process",
+          "video_id": "T5JglDcd54A",
+          "video_title": "Complete Web Design Process: What Took Me 10 Years to Learn in 12 Minutes [Free Trello Template]",
+          "rank": 2,
+          "relevance_score": 0.9102392266268373
         }
-      ]
+      ],
+      "discovery_relevance": 0.9102392266268373
     },
     {
-      "channel_id": "UC47QFe-llMHhU7thIeu3jHw",
-      "channel_title": "Professor Kyler",
+      "channel_id": "UC-b3c7kxa5vU-bnmaROgvog",
+      "channel_title": "The Futur",
       "matches": [
         {
-          "query": "fashion collection design process concept moodboard",
-          "video_id": "L7FEa25I7Wk",
-          "video_title": "My Fashion Design Process | Lesson 5: MOODBOARDS"
+          "query": "graphic design client project management process",
+          "video_id": "xoOo1bjYsKs",
+          "video_title": "No More Revisions! Working With Clients — Project Management Tips",
+          "rank": 3,
+          "relevance_score": 0.7213475204444817
+        },
+        {
+          "query": "how I manage client feedback and revisions for design work",
+          "video_id": "xoOo1bjYsKs",
+          "video_title": "No More Revisions! Working With Clients — Project Management Tips",
+          "rank": 2,
+          "relevance_score": 0.9102392266268373
         }
-      ]
+      ],
+      "discovery_relevance": 1.631586747071319
     },
     {
-      "channel_id": "UCB9sswq-sw_1bolSk1VrUpw",
-      "channel_title": "By David Kollar Brand",
+      "channel_id": "UCe-NRTWIpgysyPymHI452YA",
+      "channel_title": "Anna Hickman",
       "matches": [
         {
-          "query": "fashion collection design process concept moodboard",
-          "video_id": "jz2Um6gecNU",
-          "video_title": "How To Design A Fashion Collection [ With No Experience ]"
+          "query": "graphic design client project management process",
+          "video_id": "WOmUA7THTXg",
+          "video_title": "FULL client process for high ticket web design [STEP-BY-STEP]",
+          "rank": 4,
+          "relevance_score": 0.6213349345596119
         }
-      ]
+      ],
+      "discovery_relevance": 0.6213349345596119
     },
     {
-      "channel_id": "UCy67UlC-Gc-y1E9AxkdYeNA",
-      "channel_title": "Decoding Fashion",
+      "channel_id": "UChRfwCIKYJI0jboUx87dJyQ",
+      "channel_title": "Abi Connick",
       "matches": [
         {
-          "query": "fashion collection design process concept moodboard",
-          "video_id": "j6pySg2tQY8",
-          "video_title": "Fashion Design Mood board - Complete Fundamentals"
+          "query": "graphic design client project management process",
+          "video_id": "OzbuxPKetIc",
+          "video_title": "My Full Client Process for Brand Design Projects!",
+          "rank": 5,
+          "relevance_score": 0.5581106265512472
         }
-      ]
+      ],
+      "discovery_relevance": 0.5581106265512472
     },
     {
-      "channel_id": "UCQqIOR3HhZdXmg59nwZ98MQ",
-      "channel_title": "Justin P. Etienne",
+      "channel_id": "UCHz02uxnhF8JZXQ4uuAtlyw",
+      "channel_title": "Cj Cawley",
       "matches": [
         {
-          "query": "fashion collection design process concept moodboard",
-          "video_id": "-wxusvX2avs",
-          "video_title": "How To Develop a Fashion Collection as a Fashion Designer"
+          "query": "graphic design client project management process",
+          "video_id": "DtvvnyhiWPY",
+          "video_title": "How to Become a Freelance Graphic Designer (The REAL way)",
+          "rank": 6,
+          "relevance_score": 0.5138983423697507
         }
-      ]
+      ],
+      "discovery_relevance": 0.5138983423697507
     },
     {
-      "channel_id": "UCy8YMoIyBe7N7u8OFiMysvg",
-      "channel_title": "383 Design Studio",
+      "channel_id": "UClaCoDBjdyhjqx606Pmk00A",
+      "channel_title": "Max Mao",
       "matches": [
         {
-          "query": "fashion collection design process concept moodboard",
-          "video_id": "6Pe5jhf6Wv0",
-          "video_title": "How to Make a Fashion Mood Board (and Why You Should)"
+          "query": "graphic design client project management process",
+          "video_id": "bw-NvGvLHtM",
+          "video_title": "What is Project Management? | Explained in 10 Minutes",
+          "rank": 7,
+          "relevance_score": 0.48089834696298783
         }
-      ]
+      ],
+      "discovery_relevance": 0.48089834696298783
+    },
+    {
+      "channel_id": "UCbqI7nna_gRXqBOdhLpHCUw",
+      "channel_title": "Megan Weeks",
+      "matches": [
+        {
+          "query": "graphic design client project management process",
+          "video_id": "03AEQ8KvZxw",
+          "video_title": "Web Design Client Process (One Week Turnaround 🤯)",
+          "rank": 8,
+          "relevance_score": 0.45511961331341866
+        },
+        {
+          "query": "how I manage client feedback and revisions for design work",
+          "video_id": "sJwzrvEgvXw",
+          "video_title": "The Logo Feedback Form I Use With Clients to Avoid Vague Revisions",
+          "rank": 10,
+          "relevance_score": 0.4170323914242463
+        }
+      ],
+      "discovery_relevance": 0.872152004737665
+    },
+    {
+      "channel_id": "UCN7dywl5wDxTu1RM3eJ_h9Q",
+      "channel_title": "Flux Academy",
+      "matches": [
+        {
+          "query": "graphic design client project management process",
+          "video_id": "IfaPrQxPf-I",
+          "video_title": "Client Onboarding - Complete walkthrough",
+          "rank": 9,
+          "relevance_score": 0.43429448190325176
+        },
+        {
+          "query": "how to create a professional moodboard for film projects",
+          "video_id": "dqJGfLSR6CY",
+          "video_title": "Ai Moodboard Creator",
+          "rank": 7,
+          "relevance_score": 0.48089834696298783
+        }
+      ],
+      "discovery_relevance": 0.9151928288662396
+    },
+    {
+      "channel_id": "UCoeJKtPJLoIBqWq4o8TDLpA",
+      "channel_title": "Satori Graphics",
+      "matches": [
+        {
+          "query": "graphic design client project management process",
+          "video_id": "tslsqTcQj8s",
+          "video_title": "The ONLY Graphic Design Process You Need In 2025! (BOOKMARK THIS)",
+          "rank": 10,
+          "relevance_score": 0.4170323914242463
+        }
+      ],
+      "discovery_relevance": 0.4170323914242463
+    },
+    {
+      "channel_id": "UC3Uzf2S5On75ip89TjIyNWQ",
+      "channel_title": "Matt Aitia",
+      "matches": [
+        {
+          "query": "how to create a professional moodboard for film projects",
+          "video_id": "xoLOZuTu8FI",
+          "video_title": "How To Create a Moodboard (For Filmmakers)",
+          "rank": 1,
+          "relevance_score": 1.4426950408889634
+        },
+        {
+          "query": "how to create a professional moodboard for film projects",
+          "video_id": "b5-kFSFrwBo",
+          "video_title": "Where I get my REFERENCE IMAGES  #filmmaking #moodboard",
+          "rank": 8,
+          "relevance_score": 0.45511961331341866
+        }
+      ],
+      "discovery_relevance": 1.4426950408889634
+    },
+    {
+      "channel_id": "UCuHi4xQ11cXAaTqhOm_Ej8A",
+      "channel_title": "Louis Moss",
+      "matches": [
+        {
+          "query": "how to create a professional moodboard for film projects",
+          "video_id": "xJEYViuQifg",
+          "video_title": "How Art Directors ACTUALLY Build Moodboards",
+          "rank": 2,
+          "relevance_score": 0.9102392266268373
+        }
+      ],
+      "discovery_relevance": 0.9102392266268373
+    },
+    {
+      "channel_id": "UC0VID5nSIk6QDC65bHym7TQ",
+      "channel_title": "Flick",
+      "matches": [
+        {
+          "query": "how to create a professional moodboard for film projects",
+          "video_id": "p03cRSbIQFU",
+          "video_title": "Mood Boards",
+          "rank": 3,
+          "relevance_score": 0.7213475204444817
+        }
+      ],
+      "discovery_relevance": 0.7213475204444817
+    },
+    {
+      "channel_id": "UC1QQwXzHskeJzslDn8dylqA",
+      "channel_title": "Nur Niaz",
+      "matches": [
+        {
+          "query": "how to create a professional moodboard for film projects",
+          "video_id": "BPyXCb_4nI4",
+          "video_title": "The Art Direction Playbook for Filmmakers (+ Best Tools To Use)",
+          "rank": 4,
+          "relevance_score": 0.6213349345596119
+        },
+        {
+          "query": "my creative process for storyboarding and shot listing",
+          "video_id": "EaLMz5Y5t9A",
+          "video_title": "How to Storyboard (Even if You Can&#39;t Draw)",
+          "rank": 5,
+          "relevance_score": 0.5581106265512472
+        },
+        {
+          "query": "day in the life of a freelance art director workflow",
+          "video_id": "BPyXCb_4nI4",
+          "video_title": "The Art Direction Playbook for Filmmakers (+ Best Tools To Use)",
+          "rank": 6,
+          "relevance_score": 0.5138983423697507
+        }
+      ],
+      "discovery_relevance": 1.6933439034806097
+    },
+    {
+      "channel_id": "UCDVUGSF52ifckFumL23rzRw",
+      "channel_title": "Arnold Trinh",
+      "matches": [
+        {
+          "query": "how to create a professional moodboard for film projects",
+          "video_id": "Tu1Y_4MIcuQ",
+          "video_title": "How to Moodboard (and build a cult following)",
+          "rank": 5,
+          "relevance_score": 0.5581106265512472
+        }
+      ],
+      "discovery_relevance": 0.5581106265512472
+    },
+    {
+      "channel_id": "UCfS7xA7D4SK7n72f9ypu9qg",
+      "channel_title": "Branding Deepak",
+      "matches": [
+        {
+          "query": "how to create a professional moodboard for film projects",
+          "video_id": "UqGwFqySzWQ",
+          "video_title": "Complete Moodboard Guide for Designers (Step-by-Step Guide + Pro Tips)",
+          "rank": 6,
+          "relevance_score": 0.5138983423697507
+        }
+      ],
+      "discovery_relevance": 0.5138983423697507
+    },
+    {
+      "channel_id": "UC-a57zeCSe0H4c8l50poFrQ",
+      "channel_title": "Adhishi 🦋",
+      "matches": [
+        {
+          "query": "how to create a professional moodboard for film projects",
+          "video_id": "Tz1Ue0zZ7_g",
+          "video_title": "Mood Board 5 steps only 😍💯👉✨️ #viralshort #moodboard #moodboardaesthetic",
+          "rank": 9,
+          "relevance_score": 0.43429448190325176
+        }
+      ],
+      "discovery_relevance": 0.43429448190325176
+    },
+    {
+      "channel_id": "UC5205yD1SAhKoJjB5p4VOqA",
+      "channel_title": "Diversity in Cinema Academy",
+      "matches": [
+        {
+          "query": "how to create a professional moodboard for film projects",
+          "video_id": "Yvhsxmqtm1w",
+          "video_title": "Creating Mood Boards in Canva  #filmmaking #shorts",
+          "rank": 10,
+          "relevance_score": 0.4170323914242463
+        }
+      ],
+      "discovery_relevance": 0.4170323914242463
+    },
+    {
+      "channel_id": "UCxGHVlaobpjY7DBmOkN_TEg",
+      "channel_title": "Phil Svitek",
+      "matches": [
+        {
+          "query": "my creative process for storyboarding and shot listing",
+          "video_id": "o_mcPNvcZt4",
+          "video_title": "Inside My Shot Listing Process: How I Direct Storyboards",
+          "rank": 1,
+          "relevance_score": 1.4426950408889634
+        }
+      ],
+      "discovery_relevance": 1.4426950408889634
+    },
+    {
+      "channel_id": "UC9Se22iYCstQLVbLL_ziFXg",
+      "channel_title": "Write & Direct",
+      "matches": [
+        {
+          "query": "my creative process for storyboarding and shot listing",
+          "video_id": "u95PlXKnCZU",
+          "video_title": "How to Create A Shot List, Story Boards &amp; Shot Maps | Indie Filmmaking",
+          "rank": 3,
+          "relevance_score": 0.7213475204444817
+        }
+      ],
+      "discovery_relevance": 0.7213475204444817
+    },
+    {
+      "channel_id": "UCIWrxx5TDPio3HUQ9dcjZ4g",
+      "channel_title": "Kuzillon",
+      "matches": [
+        {
+          "query": "my creative process for storyboarding and shot listing",
+          "video_id": "fTrUcTAXQz8",
+          "video_title": "How to storyboard like a pro!",
+          "rank": 4,
+          "relevance_score": 0.6213349345596119
+        }
+      ],
+      "discovery_relevance": 0.6213349345596119
+    },
+    {
+      "channel_id": "UCUFoQUaVRt3MVFxqwPUMLCQ",
+      "channel_title": "StudioBinder",
+      "matches": [
+        {
+          "query": "my creative process for storyboarding and shot listing",
+          "video_id": "IhXMpBk3GDA",
+          "video_title": "How to Make a Shot List for Film: A Step-by-Step Guide",
+          "rank": 6,
+          "relevance_score": 0.5138983423697507
+        }
+      ],
+      "discovery_relevance": 0.5138983423697507
+    },
+    {
+      "channel_id": "UC4exYtWOlHd4mL-owyyA12w",
+      "channel_title": "Mark Bone",
+      "matches": [
+        {
+          "query": "my creative process for storyboarding and shot listing",
+          "video_id": "lXhpsqHN-QU",
+          "video_title": "how cinematographers shot list",
+          "rank": 7,
+          "relevance_score": 0.48089834696298783
+        }
+      ],
+      "discovery_relevance": 0.48089834696298783
+    },
+    {
+      "channel_id": "UCkmO4GoTiY-oejUnGnqLCLg",
+      "channel_title": "The Storyteller Chronicles",
+      "matches": [
+        {
+          "query": "my creative process for storyboarding and shot listing",
+          "video_id": "Io_HBCyjf98",
+          "video_title": "The Secret to Improving Your Storyboarding Composition: Analyze Film Sequences Like a Pro",
+          "rank": 9,
+          "relevance_score": 0.43429448190325176
+        }
+      ],
+      "discovery_relevance": 0.43429448190325176
+    },
+    {
+      "channel_id": "UCk-gt3TDC3YqaRAbxrbCMIA",
+      "channel_title": "Alanhuynhworks",
+      "matches": [
+        {
+          "query": "my creative process for storyboarding and shot listing",
+          "video_id": "gD2gEZWCNmo",
+          "video_title": "Beginner&#39;s Guide To Storyboarding for Animation",
+          "rank": 10,
+          "relevance_score": 0.4170323914242463
+        }
+      ],
+      "discovery_relevance": 0.4170323914242463
+    },
+    {
+      "channel_id": "UCIp9sEZiv36cDG7cEnrVU7Q",
+      "channel_title": "Will Paterson",
+      "matches": [
+        {
+          "query": "how I manage client feedback and revisions for design work",
+          "video_id": "UJRf_cyQsUY",
+          "video_title": "Client Revisions for Graphic Designers (No More) 🤯",
+          "rank": 1,
+          "relevance_score": 1.4426950408889634
+        }
+      ],
+      "discovery_relevance": 1.4426950408889634
+    },
+    {
+      "channel_id": "UCvccwjObHiDH_3IWnM3f5KA",
+      "channel_title": "4 The Creatives",
+      "matches": [
+        {
+          "query": "how I manage client feedback and revisions for design work",
+          "video_id": "NGQrkbPhzCA",
+          "video_title": "How to Handle Client Feedback as a Brand Designer",
+          "rank": 3,
+          "relevance_score": 0.7213475204444817
+        }
+      ],
+      "discovery_relevance": 0.7213475204444817
+    },
+    {
+      "channel_id": "UCEdAY_yoCEczqbaJo2cTMng",
+      "channel_title": "Vinaya the Learning Platform",
+      "matches": [
+        {
+          "query": "how I manage client feedback and revisions for design work",
+          "video_id": "xiofZNaoQTg",
+          "video_title": "How to handle Client Feedbacks?",
+          "rank": 4,
+          "relevance_score": 0.6213349345596119
+        }
+      ],
+      "discovery_relevance": 0.6213349345596119
+    },
+    {
+      "channel_id": "UCxP10c-UThLulino-AZLuIw",
+      "channel_title": "Kendyll Hillegas",
+      "matches": [
+        {
+          "query": "how I manage client feedback and revisions for design work",
+          "video_id": "jnap3QFuuz8",
+          "video_title": "How to work with Illustration Clients: Managing Revisions",
+          "rank": 5,
+          "relevance_score": 0.5581106265512472
+        }
+      ],
+      "discovery_relevance": 0.5581106265512472
+    },
+    {
+      "channel_id": "UC3-Xh46C1I2jFjxSxk4LGLA",
+      "channel_title": "Design Domination",
+      "matches": [
+        {
+          "query": "how I manage client feedback and revisions for design work",
+          "video_id": "F7YC01fAXSY",
+          "video_title": "How to Manage Client Revisions to Design Proofs",
+          "rank": 6,
+          "relevance_score": 0.5138983423697507
+        }
+      ],
+      "discovery_relevance": 0.5138983423697507
+    },
+    {
+      "channel_id": "UCUxoEol3UG_dgbW2-WCiuZg",
+      "channel_title": "Alamin Ads Pro",
+      "matches": [
+        {
+          "query": "how I manage client feedback and revisions for design work",
+          "video_id": "lEEz4mE11EE",
+          "video_title": "Mastering Design Feedback | Turning Revisions into Success | Alamin IT Institute",
+          "rank": 7,
+          "relevance_score": 0.48089834696298783
+        }
+      ],
+      "discovery_relevance": 0.48089834696298783
+    },
+    {
+      "channel_id": "UCrbP0H9WGKWMq9rs4tl2GuA",
+      "channel_title": "Mr. Tom Froese",
+      "matches": [
+        {
+          "query": "how I manage client feedback and revisions for design work",
+          "video_id": "GcOWdMjnXTo",
+          "video_title": "Managing Client Revisions | Making Friends No. 19",
+          "rank": 8,
+          "relevance_score": 0.45511961331341866
+        }
+      ],
+      "discovery_relevance": 0.45511961331341866
+    },
+    {
+      "channel_id": "UCdr6BNHzZyKkOUBTOOOGnKA",
+      "channel_title": "May Ng",
+      "matches": [
+        {
+          "query": "how I manage client feedback and revisions for design work",
+          "video_id": "zhBv0ncw7yQ",
+          "video_title": "6 Tips on Dealing with Client Revisions | No More Revisions!",
+          "rank": 9,
+          "relevance_score": 0.43429448190325176
+        }
+      ],
+      "discovery_relevance": 0.43429448190325176
+    },
+    {
+      "channel_id": "UC3Ws1dfgZUVDQ9yTn8pgX9A",
+      "channel_title": "Ben Kaluza",
+      "matches": [
+        {
+          "query": "organizing creative assets and references for video editing",
+          "video_id": "75o2_ciM0Bk",
+          "video_title": "The Best 21 Websites For Free Video Editing Assets in 2024",
+          "rank": 2,
+          "relevance_score": 0.9102392266268373
+        }
+      ],
+      "discovery_relevance": 0.9102392266268373
+    },
+    {
+      "channel_id": "UC6WbXxyiziI-wzLQanX9eIA",
+      "channel_title": "Amber Figlow",
+      "matches": [
+        {
+          "query": "organizing creative assets and references for video editing",
+          "video_id": "oXgutPCIVLo",
+          "video_title": "Digital Asset Management: How to Organize All of Your Content",
+          "rank": 3,
+          "relevance_score": 0.7213475204444817
+        }
+      ],
+      "discovery_relevance": 0.7213475204444817
+    },
+    {
+      "channel_id": "UCEzPVd5BoUY0Ed7RzQiZemg",
+      "channel_title": "Shaumit | Editorsinventory",
+      "matches": [
+        {
+          "query": "organizing creative assets and references for video editing",
+          "video_id": "Rmxug_deX5k",
+          "video_title": "FREE Google Drive of Video Editing Assets! 🤯 #shorts",
+          "rank": 4,
+          "relevance_score": 0.6213349345596119
+        }
+      ],
+      "discovery_relevance": 0.6213349345596119
+    },
+    {
+      "channel_id": "UCMmQBsbbzje-1LisBcOszyg",
+      "channel_title": "Layer",
+      "matches": [
+        {
+          "query": "organizing creative assets and references for video editing",
+          "video_id": "cSg1HuV5YHk",
+          "video_title": "Layer Tutorial Series | Part 2: Working with Assets &amp; References",
+          "rank": 5,
+          "relevance_score": 0.5581106265512472
+        }
+      ],
+      "discovery_relevance": 0.5581106265512472
+    },
+    {
+      "channel_id": "UCpccNDCCemzoUOSht7OPQsw",
+      "channel_title": "AI with Nicole",
+      "matches": [
+        {
+          "query": "organizing creative assets and references for video editing",
+          "video_id": "Gq2P4galFxs",
+          "video_title": "How to Recreate Viral AI Videos: Prompt vs. Skill Workflow (Full Test)",
+          "rank": 6,
+          "relevance_score": 0.5138983423697507
+        }
+      ],
+      "discovery_relevance": 0.5138983423697507
+    },
+    {
+      "channel_id": "UCarNUBwCUSXcNubo9mmPYww",
+      "channel_title": "The AI Blueprint",
+      "matches": [
+        {
+          "query": "organizing creative assets and references for video editing",
+          "video_id": "KStLoKTZICM",
+          "video_title": "Seedance 2.5 Is INSANE — Tips For AI Filmmaking",
+          "rank": 7,
+          "relevance_score": 0.48089834696298783
+        }
+      ],
+      "discovery_relevance": 0.48089834696298783
+    },
+    {
+      "channel_id": "UCc13xhiAatnW0KweQgE-ItA",
+      "channel_title": "TechPro",
+      "matches": [
+        {
+          "query": "organizing creative assets and references for video editing",
+          "video_id": "zPYlhLcVA84",
+          "video_title": "Create Hollywood-Style AI Videos with 50 References | Lumina Seedance 2.5",
+          "rank": 8,
+          "relevance_score": 0.45511961331341866
+        }
+      ],
+      "discovery_relevance": 0.45511961331341866
+    },
+    {
+      "channel_id": "UCqcCVUAeQg90KQknq7H-7uA",
+      "channel_title": "Sebastien Jefferies",
+      "matches": [
+        {
+          "query": "organizing creative assets and references for video editing",
+          "video_id": "_6leje1uDL4",
+          "video_title": "4 FREE websites for creators 😌 #videoediting #videoeditor #contentcreator #videoeditingtips",
+          "rank": 9,
+          "relevance_score": 0.43429448190325176
+        }
+      ],
+      "discovery_relevance": 0.43429448190325176
+    },
+    {
+      "channel_id": "UCOlAEM0V-DsAiLcUd1Mje5A",
+      "channel_title": "Skill Truth",
+      "matches": [
+        {
+          "query": "organizing creative assets and references for video editing",
+          "video_id": "pwYJxJl5z_0",
+          "video_title": "Documentary edit like MagnatesMedia ! 😎 #shorts #videoediting #skilltruth #decodingyt",
+          "rank": 10,
+          "relevance_score": 0.4170323914242463
+        }
+      ],
+      "discovery_relevance": 0.4170323914242463
+    },
+    {
+      "channel_id": "UCkaxisxXN92u5WIwk36I8vg",
+      "channel_title": "Jason Murray",
+      "matches": [
+        {
+          "query": "day in the life of a freelance art director workflow",
+          "video_id": "k6CHrvv7VFI",
+          "video_title": "How to become an Art Director in 2026",
+          "rank": 1,
+          "relevance_score": 1.4426950408889634
+        }
+      ],
+      "discovery_relevance": 1.4426950408889634
+    },
+    {
+      "channel_id": "UCpGpqpQlGzuv4tqX8OBdFAw",
+      "channel_title": "Paige Ray Creative Studio",
+      "matches": [
+        {
+          "query": "day in the life of a freelance art director workflow",
+          "video_id": "77U0bdJgFAA",
+          "video_title": "CREATIVE CAREERS EXPLAINED: What&#39;s the difference between a creative director and art director?",
+          "rank": 2,
+          "relevance_score": 0.9102392266268373
+        }
+      ],
+      "discovery_relevance": 0.9102392266268373
+    },
+    {
+      "channel_id": "UCq6_zoaaTC8e16Mmeg2Fyfw",
+      "channel_title": "Gabriel DeSanti",
+      "matches": [
+        {
+          "query": "day in the life of a freelance art director workflow",
+          "video_id": "ptSCWpuLBeU",
+          "video_title": "Working As A CREATIVE DIRECTOR For A Day #shorts #nyc",
+          "rank": 3,
+          "relevance_score": 0.7213475204444817
+        }
+      ],
+      "discovery_relevance": 0.7213475204444817
+    },
+    {
+      "channel_id": "UCX-RGNPa8f0nPUxvIpNEX8Q",
+      "channel_title": "Ania",
+      "matches": [
+        {
+          "query": "day in the life of a freelance art director workflow",
+          "video_id": "Ug0rKBPdQMM",
+          "video_title": "How I Went From Graphic Designer to Art Director",
+          "rank": 4,
+          "relevance_score": 0.6213349345596119
+        }
+      ],
+      "discovery_relevance": 0.6213349345596119
+    },
+    {
+      "channel_id": "UC8ME0E1icwddCikdomxrIVw",
+      "channel_title": "Dena Nguyen",
+      "matches": [
+        {
+          "query": "day in the life of a freelance art director workflow",
+          "video_id": "IAxMbCKtOIg",
+          "video_title": "life lately as a freelance graphic designer (client projects, moving, content creation)",
+          "rank": 5,
+          "relevance_score": 0.5581106265512472
+        }
+      ],
+      "discovery_relevance": 0.5581106265512472
+    },
+    {
+      "channel_id": "UCRUxxT9Qa_uC6PpO1QnwLhg",
+      "channel_title": "Workers Direct",
+      "matches": [
+        {
+          "query": "day in the life of a freelance art director workflow",
+          "video_id": "SIhYvgOPLI0",
+          "video_title": "A Day in the Life of a Pro Graphic Designer: Essential Tools &amp; Real Client Projects!",
+          "rank": 7,
+          "relevance_score": 0.48089834696298783
+        }
+      ],
+      "discovery_relevance": 0.48089834696298783
+    },
+    {
+      "channel_id": "UC_tSQ6UQy2pROm-I0J7UBoA",
+      "channel_title": "orenmeetsworld",
+      "matches": [
+        {
+          "query": "day in the life of a freelance art director workflow",
+          "video_id": "xqfrHgRGCCA",
+          "video_title": "Creative Director 101:  Briefs &amp; Techniques",
+          "rank": 8,
+          "relevance_score": 0.45511961331341866
+        }
+      ],
+      "discovery_relevance": 0.45511961331341866
+    },
+    {
+      "channel_id": "UCVG2sS0xtW3Y_0woGbLVkkQ",
+      "channel_title": "Michael Lubrin (dayswithmike)",
+      "matches": [
+        {
+          "query": "day in the life of a freelance art director workflow",
+          "video_id": "VNvZgkBodjg",
+          "video_title": "Day in the Life of a Freelance Graphic Designer (A Productive Work Day)",
+          "rank": 9,
+          "relevance_score": 0.43429448190325176
+        }
+      ],
+      "discovery_relevance": 0.43429448190325176
+    },
+    {
+      "channel_id": "UCgPMJJUthFPS-gT73l848vQ",
+      "channel_title": "Anjela Freyja",
+      "matches": [
+        {
+          "query": "day in the life of a freelance art director workflow",
+          "video_id": "tQu6bMZQibw",
+          "video_title": "How to become a creative director #designtutorial #creativecareers #graphicdesign #designinspiration",
+          "rank": 10,
+          "relevance_score": 0.4170323914242463
+        }
+      ],
+      "discovery_relevance": 0.4170323914242463
+    },
+    {
+      "channel_id": "UCYauriXQpvJ5FpdB2bsvF6Q",
+      "channel_title": "MADO",
+      "matches": [
+        {
+          "query": "how to plan a commercial video shoot from start to finish",
+          "video_id": "n6uSGD5HZvk",
+          "video_title": "Start to Finish: How I Plan, Shoot &amp; Edit My Cinematic Videos",
+          "rank": 1,
+          "relevance_score": 1.4426950408889634
+        }
+      ],
+      "discovery_relevance": 1.4426950408889634
+    },
+    {
+      "channel_id": "UCZrUGA_Fdar-ga42PhRI31g",
+      "channel_title": "lacapturevisuals",
+      "matches": [
+        {
+          "query": "how to plan a commercial video shoot from start to finish",
+          "video_id": "FOs5lE0qa1o",
+          "video_title": "How to Create Videos That STAND OUT | Plan, Shoot, Edit, Grow",
+          "rank": 2,
+          "relevance_score": 0.9102392266268373
+        }
+      ],
+      "discovery_relevance": 0.9102392266268373
+    },
+    {
+      "channel_id": "UC0cCQwIRebWSSVUkmYgcDPg",
+      "channel_title": "Ashley Mia",
+      "matches": [
+        {
+          "query": "how to plan a commercial video shoot from start to finish",
+          "video_id": "0WAMt6lcCc8",
+          "video_title": "How To Plan A Photoshoot: From Start To Finish (Concept Shoot)",
+          "rank": 4,
+          "relevance_score": 0.6213349345596119
+        }
+      ],
+      "discovery_relevance": 0.6213349345596119
+    },
+    {
+      "channel_id": "UCkdBfH9zo2Ehu3igR7vMVDw",
+      "channel_title": "Lester Bravo",
+      "matches": [
+        {
+          "query": "how to plan a commercial video shoot from start to finish",
+          "video_id": "uVuHX3tX8LI",
+          "video_title": "How I Plan, Shoot &amp; Edit a Full Client Video Project",
+          "rank": 5,
+          "relevance_score": 0.5581106265512472
+        }
+      ],
+      "discovery_relevance": 0.5581106265512472
+    },
+    {
+      "channel_id": "UCvd8i_k1MOpZ7SZFKIprcTQ",
+      "channel_title": "Practical Videography",
+      "matches": [
+        {
+          "query": "how to plan a commercial video shoot from start to finish",
+          "video_id": "rJxvrs6-ygQ",
+          "video_title": "How to Plan a Video Shoot: From Idea to Finished Product",
+          "rank": 6,
+          "relevance_score": 0.5138983423697507
+        }
+      ],
+      "discovery_relevance": 0.5138983423697507
+    },
+    {
+      "channel_id": "UCqMFg8FbHPwbSQ26wc7lufw",
+      "channel_title": "Monika Freeman Studios",
+      "matches": [
+        {
+          "query": "how to plan a commercial video shoot from start to finish",
+          "video_id": "uPduCfwTGb4",
+          "video_title": "How To Plan A Brand Photo Shoot From Start To Finish",
+          "rank": 8,
+          "relevance_score": 0.45511961331341866
+        }
+      ],
+      "discovery_relevance": 0.45511961331341866
+    },
+    {
+      "channel_id": "UCJ7xAMWK0tXZdDATB0XBIsA",
+      "channel_title": "Kayla Mendez",
+      "matches": [
+        {
+          "query": "how to plan a commercial video shoot from start to finish",
+          "video_id": "6qvDN_vRIDI",
+          "video_title": "How I Plan, Shoot, and Deliver a High-End Beauty Campaign",
+          "rank": 9,
+          "relevance_score": 0.43429448190325176
+        }
+      ],
+      "discovery_relevance": 0.43429448190325176
+    },
+    {
+      "channel_id": "UC1AkvxHlC7JAA4N4wTs3h5Q",
+      "channel_title": "Zac Watson",
+      "matches": [
+        {
+          "query": "how to plan a commercial video shoot from start to finish",
+          "video_id": "LBizB0cChkg",
+          "video_title": "Beginner Videographer Tips Part 1",
+          "rank": 10,
+          "relevance_score": 0.4170323914242463
+        }
+      ],
+      "discovery_relevance": 0.4170323914242463
     }
-  ]
+  ],
+  "campaign_fingerprint": "027fe2b5a4b176bbea08a97d8e789c0f7b8860f84bd3e143f804db1666e298f4",
+  "discovered_at": "2026-10-29T02:46:43.880701+00:00"
 }

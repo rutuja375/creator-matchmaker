@@ -1,0 +1,917 @@
+{
+  "source": "Google Trends",
+  "fetched_at": "2026-10-29T02:44:48.933998+00:00",
+  "verification_method": "Operator-supplied official CSV; recent-half mean exceeds previous-half mean",
+  "campaign_fingerprint": "027fe2b5a4b176bbea08a97d8e789c0f7b8860f84bd3e143f804db1666e298f4",
+  "filter": {
+    "before": "2026-10-25",
+    "rule": "Retain only periods whose start date is strictly before the cutoff; no automatic partial-period detection"
+  },
+  "checked_topics": [
+    {
+      "topic": "moodboard",
+      "geo": "US",
+      "window": "Past 12 months; weekly period starts 2025-10-26 through 2026-10-25; Web Search",
+      "source_url": "https://trends.google.com/trends/explore?geo=US&q=moodboard&hl=en",
+      "export_sha256": "316cfb4fa0d2dd6a8c610948f2537632cef241451ffb7a1a1bf4401c1ed8b7fa",
+      "series": [
+        {
+          "date": "2025-10-26",
+          "value": 73.0
+        },
+        {
+          "date": "2025-11-02",
+          "value": 93.0
+        },
+        {
+          "date": "2025-11-09",
+          "value": 90.0
+        },
+        {
+          "date": "2025-11-16",
+          "value": 79.0
+        },
+        {
+          "date": "2025-11-23",
+          "value": 82.0
+        },
+        {
+          "date": "2025-11-30",
+          "value": 100.0
+        },
+        {
+          "date": "2025-12-07",
+          "value": 82.0
+        },
+        {
+          "date": "2025-12-14",
+          "value": 74.0
+        },
+        {
+          "date": "2025-12-21",
+          "value": 60.0
+        },
+        {
+          "date": "2025-12-28",
+          "value": 75.0
+        },
+        {
+          "date": "2026-01-04",
+          "value": 83.0
+        },
+        {
+          "date": "2026-01-11",
+          "value": 78.0
+        },
+        {
+          "date": "2026-01-18",
+          "value": 84.0
+        },
+        {
+          "date": "2026-01-25",
+          "value": 84.0
+        },
+        {
+          "date": "2026-02-01",
+          "value": 84.0
+        },
+        {
+          "date": "2026-02-08",
+          "value": 82.0
+        },
+        {
+          "date": "2026-02-15",
+          "value": 75.0
+        },
+        {
+          "date": "2026-02-22",
+          "value": 73.0
+        },
+        {
+          "date": "2026-03-01",
+          "value": 79.0
+        },
+        {
+          "date": "2026-03-08",
+          "value": 83.0
+        },
+        {
+          "date": "2026-03-15",
+          "value": 89.0
+        },
+        {
+          "date": "2026-03-22",
+          "value": 62.0
+        },
+        {
+          "date": "2026-03-29",
+          "value": 68.0
+        },
+        {
+          "date": "2026-04-05",
+          "value": 80.0
+        },
+        {
+          "date": "2026-04-12",
+          "value": 80.0
+        },
+        {
+          "date": "2026-04-19",
+          "value": 79.0
+        },
+        {
+          "date": "2026-04-26",
+          "value": 72.0
+        },
+        {
+          "date": "2026-05-03",
+          "value": 75.0
+        },
+        {
+          "date": "2026-05-10",
+          "value": 80.0
+        },
+        {
+          "date": "2026-05-17",
+          "value": 76.0
+        },
+        {
+          "date": "2026-05-24",
+          "value": 75.0
+        },
+        {
+          "date": "2026-05-31",
+          "value": 76.0
+        },
+        {
+          "date": "2026-06-07",
+          "value": 64.0
+        },
+        {
+          "date": "2026-06-14",
+          "value": 76.0
+        },
+        {
+          "date": "2026-06-21",
+          "value": 77.0
+        },
+        {
+          "date": "2026-06-28",
+          "value": 68.0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 98.0
+        },
+        {
+          "date": "2026-07-12",
+          "value": 72.0
+        },
+        {
+          "date": "2026-07-19",
+          "value": 53.0
+        },
+        {
+          "date": "2026-07-26",
+          "value": 58.0
+        },
+        {
+          "date": "2026-08-02",
+          "value": 55.0
+        },
+        {
+          "date": "2026-08-09",
+          "value": 63.0
+        },
+        {
+          "date": "2026-08-16",
+          "value": 67.0
+        },
+        {
+          "date": "2026-08-23",
+          "value": 65.0
+        },
+        {
+          "date": "2026-08-30",
+          "value": 66.0
+        },
+        {
+          "date": "2026-09-06",
+          "value": 68.0
+        },
+        {
+          "date": "2026-09-13",
+          "value": 71.0
+        },
+        {
+          "date": "2026-09-20",
+          "value": 77.0
+        },
+        {
+          "date": "2026-09-27",
+          "value": 63.0
+        },
+        {
+          "date": "2026-10-04",
+          "value": 68.0
+        },
+        {
+          "date": "2026-10-11",
+          "value": 72.0
+        },
+        {
+          "date": "2026-10-18",
+          "value": 77.0
+        }
+      ],
+      "excluded_dates": [
+        "2026-10-25"
+      ],
+      "retained_period_start_range": {
+        "first": "2025-10-26",
+        "last": "2026-10-18"
+      },
+      "previous_interest": 79.65384615384616,
+      "recent_interest": 70.46153846153847
+    },
+    {
+      "topic": "storyboard",
+      "geo": "US",
+      "window": "Past 12 months; weekly period starts 2025-10-26 through 2026-10-25; Web Search",
+      "source_url": "https://trends.google.com/trends/explore?geo=US&q=storyboard&hl=en",
+      "export_sha256": "74705c8469435c8d0b43dcbbd1662951fb81d61c0face28fdf12cb46f06cba9f",
+      "series": [
+        {
+          "date": "2025-10-26",
+          "value": 85.0
+        },
+        {
+          "date": "2025-11-02",
+          "value": 92.0
+        },
+        {
+          "date": "2025-11-09",
+          "value": 87.0
+        },
+        {
+          "date": "2025-11-16",
+          "value": 80.0
+        },
+        {
+          "date": "2025-11-23",
+          "value": 57.0
+        },
+        {
+          "date": "2025-11-30",
+          "value": 83.0
+        },
+        {
+          "date": "2025-12-07",
+          "value": 75.0
+        },
+        {
+          "date": "2025-12-14",
+          "value": 64.0
+        },
+        {
+          "date": "2025-12-21",
+          "value": 45.0
+        },
+        {
+          "date": "2025-12-28",
+          "value": 44.0
+        },
+        {
+          "date": "2026-01-04",
+          "value": 63.0
+        },
+        {
+          "date": "2026-01-11",
+          "value": 71.0
+        },
+        {
+          "date": "2026-01-18",
+          "value": 79.0
+        },
+        {
+          "date": "2026-01-25",
+          "value": 72.0
+        },
+        {
+          "date": "2026-02-01",
+          "value": 81.0
+        },
+        {
+          "date": "2026-02-08",
+          "value": 82.0
+        },
+        {
+          "date": "2026-02-15",
+          "value": 85.0
+        },
+        {
+          "date": "2026-02-22",
+          "value": 90.0
+        },
+        {
+          "date": "2026-03-01",
+          "value": 86.0
+        },
+        {
+          "date": "2026-03-08",
+          "value": 81.0
+        },
+        {
+          "date": "2026-03-15",
+          "value": 72.0
+        },
+        {
+          "date": "2026-03-22",
+          "value": 74.0
+        },
+        {
+          "date": "2026-03-29",
+          "value": 84.0
+        },
+        {
+          "date": "2026-04-05",
+          "value": 85.0
+        },
+        {
+          "date": "2026-04-12",
+          "value": 92.0
+        },
+        {
+          "date": "2026-04-19",
+          "value": 85.0
+        },
+        {
+          "date": "2026-04-26",
+          "value": 89.0
+        },
+        {
+          "date": "2026-05-03",
+          "value": 92.0
+        },
+        {
+          "date": "2026-05-10",
+          "value": 99.0
+        },
+        {
+          "date": "2026-05-17",
+          "value": 100.0
+        },
+        {
+          "date": "2026-05-24",
+          "value": 82.0
+        },
+        {
+          "date": "2026-05-31",
+          "value": 79.0
+        },
+        {
+          "date": "2026-06-07",
+          "value": 83.0
+        },
+        {
+          "date": "2026-06-14",
+          "value": 80.0
+        },
+        {
+          "date": "2026-06-21",
+          "value": 74.0
+        },
+        {
+          "date": "2026-06-28",
+          "value": 72.0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 67.0
+        },
+        {
+          "date": "2026-07-12",
+          "value": 61.0
+        },
+        {
+          "date": "2026-07-19",
+          "value": 59.0
+        },
+        {
+          "date": "2026-07-26",
+          "value": 49.0
+        },
+        {
+          "date": "2026-08-02",
+          "value": 44.0
+        },
+        {
+          "date": "2026-08-09",
+          "value": 53.0
+        },
+        {
+          "date": "2026-08-16",
+          "value": 54.0
+        },
+        {
+          "date": "2026-08-23",
+          "value": 47.0
+        },
+        {
+          "date": "2026-08-30",
+          "value": 49.0
+        },
+        {
+          "date": "2026-09-06",
+          "value": 52.0
+        },
+        {
+          "date": "2026-09-13",
+          "value": 59.0
+        },
+        {
+          "date": "2026-09-20",
+          "value": 67.0
+        },
+        {
+          "date": "2026-09-27",
+          "value": 63.0
+        },
+        {
+          "date": "2026-10-04",
+          "value": 58.0
+        },
+        {
+          "date": "2026-10-11",
+          "value": 55.0
+        },
+        {
+          "date": "2026-10-18",
+          "value": 64.0
+        }
+      ],
+      "excluded_dates": [
+        "2026-10-25"
+      ],
+      "retained_period_start_range": {
+        "first": "2025-10-26",
+        "last": "2026-10-18"
+      },
+      "previous_interest": 76.6923076923077,
+      "recent_interest": 67.34615384615384
+    },
+    {
+      "topic": "film shot list",
+      "geo": "US",
+      "window": "Past 12 months; weekly period starts 2025-10-26 through 2026-10-25; Web Search",
+      "source_url": "https://trends.google.com/trends/explore?geo=US&q=film%20shot%20list&hl=en",
+      "export_sha256": "0064808dac152e201838b01a6e2491d753d140f1da9c772fd4fdede6f714790e",
+      "series": [
+        {
+          "date": "2025-10-26",
+          "value": 24.0
+        },
+        {
+          "date": "2025-11-02",
+          "value": 51.0
+        },
+        {
+          "date": "2025-11-09",
+          "value": 32.0
+        },
+        {
+          "date": "2025-11-16",
+          "value": 50.0
+        },
+        {
+          "date": "2025-11-23",
+          "value": 49.0
+        },
+        {
+          "date": "2025-11-30",
+          "value": 53.0
+        },
+        {
+          "date": "2025-12-07",
+          "value": 60.0
+        },
+        {
+          "date": "2025-12-14",
+          "value": 42.0
+        },
+        {
+          "date": "2025-12-21",
+          "value": 49.0
+        },
+        {
+          "date": "2025-12-28",
+          "value": 45.0
+        },
+        {
+          "date": "2026-01-04",
+          "value": 30.0
+        },
+        {
+          "date": "2026-01-11",
+          "value": 58.0
+        },
+        {
+          "date": "2026-01-18",
+          "value": 68.0
+        },
+        {
+          "date": "2026-01-25",
+          "value": 96.0
+        },
+        {
+          "date": "2026-02-01",
+          "value": 100.0
+        },
+        {
+          "date": "2026-02-08",
+          "value": 46.0
+        },
+        {
+          "date": "2026-02-15",
+          "value": 75.0
+        },
+        {
+          "date": "2026-02-22",
+          "value": 67.0
+        },
+        {
+          "date": "2026-03-01",
+          "value": 53.0
+        },
+        {
+          "date": "2026-03-08",
+          "value": 42.0
+        },
+        {
+          "date": "2026-03-15",
+          "value": 60.0
+        },
+        {
+          "date": "2026-03-22",
+          "value": 59.0
+        },
+        {
+          "date": "2026-03-29",
+          "value": 52.0
+        },
+        {
+          "date": "2026-04-05",
+          "value": 51.0
+        },
+        {
+          "date": "2026-04-12",
+          "value": 34.0
+        },
+        {
+          "date": "2026-04-19",
+          "value": 54.0
+        },
+        {
+          "date": "2026-04-26",
+          "value": 43.0
+        },
+        {
+          "date": "2026-05-03",
+          "value": 71.0
+        },
+        {
+          "date": "2026-05-10",
+          "value": 54.0
+        },
+        {
+          "date": "2026-05-17",
+          "value": 33.0
+        },
+        {
+          "date": "2026-05-24",
+          "value": 41.0
+        },
+        {
+          "date": "2026-05-31",
+          "value": 32.0
+        },
+        {
+          "date": "2026-06-07",
+          "value": 55.0
+        },
+        {
+          "date": "2026-06-14",
+          "value": 35.0
+        },
+        {
+          "date": "2026-06-21",
+          "value": 30.0
+        },
+        {
+          "date": "2026-06-28",
+          "value": 34.0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 30.0
+        },
+        {
+          "date": "2026-07-12",
+          "value": 24.0
+        },
+        {
+          "date": "2026-07-19",
+          "value": 22.0
+        },
+        {
+          "date": "2026-07-26",
+          "value": 25.0
+        },
+        {
+          "date": "2026-08-02",
+          "value": 0.0
+        },
+        {
+          "date": "2026-08-09",
+          "value": 22.0
+        },
+        {
+          "date": "2026-08-16",
+          "value": 0.0
+        },
+        {
+          "date": "2026-08-23",
+          "value": 30.0
+        },
+        {
+          "date": "2026-08-30",
+          "value": 0.0
+        },
+        {
+          "date": "2026-09-06",
+          "value": 27.0
+        },
+        {
+          "date": "2026-09-13",
+          "value": 0.0
+        },
+        {
+          "date": "2026-09-20",
+          "value": 0.0
+        },
+        {
+          "date": "2026-09-27",
+          "value": 15.0
+        },
+        {
+          "date": "2026-10-04",
+          "value": 15.0
+        },
+        {
+          "date": "2026-10-11",
+          "value": 4.0
+        },
+        {
+          "date": "2026-10-18",
+          "value": 15.0
+        }
+      ],
+      "excluded_dates": [
+        "2026-10-25"
+      ],
+      "retained_period_start_range": {
+        "first": "2025-10-26",
+        "last": "2026-10-18"
+      },
+      "previous_interest": 53.84615384615385,
+      "recent_interest": 25.26923076923077
+    },
+    {
+      "topic": "design collaboration",
+      "geo": "US",
+      "window": "Past 12 months; weekly period starts 2025-10-26 through 2026-10-25; Web Search",
+      "source_url": "https://trends.google.com/trends/explore?geo=US&q=design%20collaboration&hl=en",
+      "export_sha256": "76fb71bda500e67ac4dc669aa6aa805c3063cb6886f4b5e20fac9d53ff826686",
+      "series": [
+        {
+          "date": "2025-10-26",
+          "value": 31.0
+        },
+        {
+          "date": "2025-11-02",
+          "value": 36.0
+        },
+        {
+          "date": "2025-11-09",
+          "value": 40.0
+        },
+        {
+          "date": "2025-11-16",
+          "value": 38.0
+        },
+        {
+          "date": "2025-11-23",
+          "value": 31.0
+        },
+        {
+          "date": "2025-11-30",
+          "value": 31.0
+        },
+        {
+          "date": "2025-12-07",
+          "value": 34.0
+        },
+        {
+          "date": "2025-12-14",
+          "value": 32.0
+        },
+        {
+          "date": "2025-12-21",
+          "value": 25.0
+        },
+        {
+          "date": "2025-12-28",
+          "value": 25.0
+        },
+        {
+          "date": "2026-01-04",
+          "value": 36.0
+        },
+        {
+          "date": "2026-01-11",
+          "value": 38.0
+        },
+        {
+          "date": "2026-01-18",
+          "value": 51.0
+        },
+        {
+          "date": "2026-01-25",
+          "value": 54.0
+        },
+        {
+          "date": "2026-02-01",
+          "value": 90.0
+        },
+        {
+          "date": "2026-02-08",
+          "value": 65.0
+        },
+        {
+          "date": "2026-02-15",
+          "value": 90.0
+        },
+        {
+          "date": "2026-02-22",
+          "value": 100.0
+        },
+        {
+          "date": "2026-03-01",
+          "value": 54.0
+        },
+        {
+          "date": "2026-03-08",
+          "value": 50.0
+        },
+        {
+          "date": "2026-03-15",
+          "value": 62.0
+        },
+        {
+          "date": "2026-03-22",
+          "value": 56.0
+        },
+        {
+          "date": "2026-03-29",
+          "value": 54.0
+        },
+        {
+          "date": "2026-04-05",
+          "value": 55.0
+        },
+        {
+          "date": "2026-04-12",
+          "value": 70.0
+        },
+        {
+          "date": "2026-04-19",
+          "value": 63.0
+        },
+        {
+          "date": "2026-04-26",
+          "value": 62.0
+        },
+        {
+          "date": "2026-05-03",
+          "value": 61.0
+        },
+        {
+          "date": "2026-05-10",
+          "value": 58.0
+        },
+        {
+          "date": "2026-05-17",
+          "value": 52.0
+        },
+        {
+          "date": "2026-05-24",
+          "value": 49.0
+        },
+        {
+          "date": "2026-05-31",
+          "value": 55.0
+        },
+        {
+          "date": "2026-06-07",
+          "value": 72.0
+        },
+        {
+          "date": "2026-06-14",
+          "value": 63.0
+        },
+        {
+          "date": "2026-06-21",
+          "value": 68.0
+        },
+        {
+          "date": "2026-06-28",
+          "value": 56.0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 58.0
+        },
+        {
+          "date": "2026-07-12",
+          "value": 31.0
+        },
+        {
+          "date": "2026-07-19",
+          "value": 19.0
+        },
+        {
+          "date": "2026-07-26",
+          "value": 15.0
+        },
+        {
+          "date": "2026-08-02",
+          "value": 19.0
+        },
+        {
+          "date": "2026-08-09",
+          "value": 24.0
+        },
+        {
+          "date": "2026-08-16",
+          "value": 16.0
+        },
+        {
+          "date": "2026-08-23",
+          "value": 65.0
+        },
+        {
+          "date": "2026-08-30",
+          "value": 17.0
+        },
+        {
+          "date": "2026-09-06",
+          "value": 12.0
+        },
+        {
+          "date": "2026-09-13",
+          "value": 20.0
+        },
+        {
+          "date": "2026-09-20",
+          "value": 19.0
+        },
+        {
+          "date": "2026-09-27",
+          "value": 18.0
+        },
+        {
+          "date": "2026-10-04",
+          "value": 15.0
+        },
+        {
+          "date": "2026-10-11",
+          "value": 14.0
+        },
+        {
+          "date": "2026-10-18",
+          "value": 13.0
+        }
+      ],
+      "excluded_dates": [
+        "2026-10-25"
+      ],
+      "retained_period_start_range": {
+        "first": "2025-10-26",
+        "last": "2026-10-18"
+      },
+      "previous_interest": 50.42307692307692,
+      "recent_interest": 37.34615384615385
+    }
+  ],
+  "trends": []
+}

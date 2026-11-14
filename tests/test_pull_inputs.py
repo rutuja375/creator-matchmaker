@@ -6,6 +6,7 @@ pair with data/channels/<handle>.json.
 """
 import json
 
+import pytest
 
 from src import pull
 
@@ -73,7 +74,6 @@ class TestQuota:
     def test_quota_exceeded_is_distinguished_from_an_ordinary_403(self):
         class Response:
             status_code = 403
-
             def json(self):
                 return {"error": {"errors": [{"reason": "quotaExceeded"}]}}
         assert pull._reason(Response()) == "quotaExceeded"
@@ -81,7 +81,6 @@ class TestQuota:
     def test_an_unparseable_error_body_does_not_crash(self):
         class Response:
             status_code = 403
-
             def json(self):
                 raise ValueError("not json")
         assert pull._reason(Response()) == ""
