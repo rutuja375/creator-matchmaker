@@ -1,12 +1,31 @@
 {
-  "product_description": "Milanote is a visual workspace for organizing creative projects.",
+  "product_description": "Milanote is a visual workspace for organizing creative projects: moodboards, notes, references, tasks and files arranged on a flexible board, shareable with clients and collaborators.",
   "objective": "consideration",
-  "specific_goal": "Show filmmakers and designers how visual planning fits their client projects.",
-  "audience": "Filmmakers and designers who plan creative projects and organize client research.",
+  "specific_goal": "Show filmmakers and designers how visual planning fits the way they already plan client projects.",
+  "audience": "Filmmakers, video editors, graphic designers and art directors who plan client work visually. They gather references and moodboards, storyboard and shot-list, and juggle scattered feedback, versions and research across tools.",
   "brand_requirements": {
-    "banned_phrases": ["guaranteed success"],
-    "raw_tone": "Practical, calm, honest and clear",
-    "category_exclusions": ["gambling"],
-    "competitors": ["Notion"]
+    "banned_phrases": [
+      "guaranteed success",
+      "the only tool you need",
+      "replaces your entire workflow",
+      "guaranteed to make you more productive",
+      "10x your creativity"
+    ],
+    "raw_tone": "Practical, calm, honest and clear. Shows real work in progress rather than selling, and never implies a tool fixes a creative problem on its own.",
+    "category_exclusions": [
+      "gambling",
+      "crypto",
+      "NFT",
+      "dropshipping",
+      "get rich quick",
+      "adult content"
+    ],
+    "competitors": [
+      "Notion",
+      "Miro",
+      "Figjam",
+      "Trello",
+      "Evernote"
+    ]
   }
 }

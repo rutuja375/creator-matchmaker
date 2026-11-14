@@ -1,26 +1,33 @@
 {
-  "campaign_fingerprint": "0b3c660cb9cb5601f551d6926febf90e972fa9afa30cc6507ac606f361e9fd9a",
+  "campaign_fingerprint": "027fe2b5a4b176bbea08a97d8e789c0f7b8860f84bd3e143f804db1666e298f4",
   "exports": [
     {
-      "file": "REPLACE_WITH_YOUR_CSV.csv",
-      "topic": "storyboarding",
+      "file": "moodboard.csv",
+      "topic": "moodboard",
       "geo": "US",
-      "window": "REPLACE_WITH_ACTUAL_EXPORT_RANGE",
-      "source_url": "https://trends.google.com/trends/explore?geo=US&q=storyboarding"
+      "window": "Past 12 months; weekly period starts 2025-10-26 through 2026-10-25; Web Search",
+      "source_url": "https://trends.google.com/trends/explore?geo=US&q=moodboard&hl=en"
     },
     {
-      "file": "REPLACE_WITH_YOUR_CSV.csv",
-      "topic": "moodboarding",
+      "file": "storyboard.csv",
+      "topic": "storyboard",
       "geo": "US",
-      "window": "REPLACE_WITH_ACTUAL_EXPORT_RANGE",
-      "source_url": "https://trends.google.com/trends/explore?geo=US&q=moodboarding"
+      "window": "Past 12 months; weekly period starts 2025-10-26 through 2026-10-25; Web Search",
+      "source_url": "https://trends.google.com/trends/explore?geo=US&q=storyboard&hl=en"
     },
     {
-      "file": "REPLACE_WITH_YOUR_CSV.csv",
-      "topic": "creative planning",
+      "file": "film_shot_list.csv",
+      "topic": "film shot list",
       "geo": "US",
-      "window": "REPLACE_WITH_ACTUAL_EXPORT_RANGE",
-      "source_url": "https://trends.google.com/trends/explore?geo=US&q=creative%20planning"
+      "window": "Past 12 months; weekly period starts 2025-10-26 through 2026-10-25; Web Search",
+      "source_url": "https://trends.google.com/trends/explore?geo=US&q=film%20shot%20list&hl=en"
+    },
+    {
+      "file": "design_collaboration.csv",
+      "topic": "design collaboration",
+      "geo": "US",
+      "window": "Past 12 months; weekly period starts 2025-10-26 through 2026-10-25; Web Search",
+      "source_url": "https://trends.google.com/trends/explore?geo=US&q=design%20collaboration&hl=en"
     }
   ]
 }
